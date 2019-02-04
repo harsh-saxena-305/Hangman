@@ -40,7 +40,7 @@ public class game {
 
         }
     }
-    enum season {FRUIT,ANIMAL,VEHICLE,ROAD,COLOUR}
+    enum season {FRUIT,ANIMAL,VEHICLE,CITY,COLOUR}
     public static void main(String[] args) {
 
         char a;
