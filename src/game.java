@@ -52,7 +52,7 @@ public class game {
         char s1[]= new char[s.length()];
 
         System.out.println("It's a "+ season.values()[ri]);
-        System.out.println("You have total "+ ((s.length() / 2) + 1) +" chances to attempt wrong or repeat the same characterl");
+        System.out.println("You have total "+ ((s.length() / 2) + 1) +" chances to attempt wrong or repeat the same character");
         for (int i = 0; i < s.length() ; i++) {
             s1[i] = '-';
             System.out.print(s1[i]);
